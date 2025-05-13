@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "input_variables": [],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n This is a basic prompt\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

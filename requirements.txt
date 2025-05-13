@@ -1,0 +1,41 @@
+# Core LLM and chaining
+langchain
+openai
+groq
+
+# Vector stores
+pinecone-client
+faiss-cpu
+chromadb
+
+# Embeddings and token handling
+tiktoken
+sentence-transformers
+
+# Document loaders
+PyPDF2
+python-docx
+unstructured
+docx2txt
+
+# Text splitting & cleaning
+nltk
+beautifulsoup4
+
+# Web-based interaction
+streamlit
+gradio
+fastapi
+uvicorn
+
+# Environment management
+python-dotenv
+
+# Async and utilities
+aiohttp
+requests
+
+# Optional tools for visualization or QA
+matplotlib
+scikit-learn
+pandas
